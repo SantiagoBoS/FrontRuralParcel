@@ -126,7 +126,7 @@
                     nombreDuenio: '',
                     sistemaRiego: null,
                     text: '',
-                    file1: null,
+                    file1: '',
                     dispobilidadTerreno: null
                 },
                 sistemaRiego: [{ text: 'Seleccione el sistema de riego', value: null }, 'Goteo', 'Gravedad', 'Bombeo', 'Aspersión'],
